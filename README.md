@@ -1,5 +1,5 @@
 # chat-app
-Attempt to used socket.io to create an app that sends messages
+A chat app using  socket.io to create an app that sends messages
 
 Run `npm install socket.io` to get the node_modules
 
